@@ -1,22 +1,78 @@
-## 关于 Jxsimple
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=欢迎来到Jxsimple博客！;我是Jxsimple，一名专注于Go语言的工程师;分享技术经验与见解;探索Go语言的无限可能" />
+</div>
 
-Jxsimple 是一个专注于Go语言开发的个人博客。作为一名热爱技术的Go语言工程师，我希望通过这个平台分享我在工作和学习中的经验、见解和思考。Go语言以其高效、简洁和强大的并发能力而闻名，是现代软件开发中不可或缺的工具之一。
+<div align="center">
+  <img src="https://img.shields.io/github/followers/jxsimple?label=关注者&style=social" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/jxsimple?label=获赞&style=social" alt="GitHub星标" />
+  <img src="https://komarev.com/ghpvc/?username=jxsimple&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
+</div>
 
-### 博客内容
+<br/>
+### 👨‍💻 关于 我
 
-在这里，您可以找到以下内容：
+- 🔭 专注于Go语言开发，热衷于技术分享
+- 🌱 深入研究Go语言的核心语法和并发编程
+- 💡 分享框架与库的使用心得，提升开发效率
+- 🎯 目标：为Go语言社区贡献更多高质量内容
+- ⚡ 持续更新，保持与技术发展同步
+- 🎨 业余时间喜欢探索新技术，享受编程的乐趣
+- 🎵 热爱音乐，编程时常伴随旋律
+- 🏃‍♂️ 热爱运动，保持健康的生活方式
+- 📚 喜欢阅读技术书籍，拓宽视野
 
-- **Go语言技术分享**：深入探讨Go语言的核心语法、并发编程模型以及如何利用Go的特性来构建高效的应用程序。我们将通过实例和代码片段，帮助您更好地理解和应用这些技术。
-- **框架与库的使用心得**：分享Gin、Echo、Fiber等主流框架的实践经验，帮助开发者快速上手并掌握这些工具的最佳实践。我们将详细介绍每个框架的优缺点及其适用场景。
-- **性能优化技巧**：介绍如何通过代码优化、缓存策略、并发处理等方法来提升应用的性能和用户体验。我们将提供具体的案例分析和优化策略，帮助您在实际项目中取得显著的性能提升。
-- **开发工具介绍**：推荐和评测提高开发效率的IDE、调试工具、构建工具以及版本控制系统，帮助开发者打造高效的开发环境。我们将分享如何配置和使用这些工具以最大化生产力。
-- **行业动态分析**：分析Go语言及其生态系统的最新趋势，探讨未来的发展方向，为开发者提供前瞻性的视角。我们将定期更新行业资讯，确保您始终站在技术的前沿。
+<br/>
 
-### 为什么选择 Jxsimple
+### 🛠️ 技术栈
 
-1. **专业性**：所有文章都基于实际工作经验和深入研究，确保内容的准确性和实用性。我们致力于提供高质量的技术内容，帮助您在职业生涯中不断进步。
-2. **实用性**：注重理论与实践的结合，提供可直接应用的解决方案，帮助开发者解决实际问题。我们的目标是让每一篇文章都能为您的工作带来实质性的帮助。
-3. **持续更新**：保持与Go技术发展同步，定期发布新内容，确保读者获取最新的技术资讯。我们承诺不断更新和完善内容，以满足读者的学习需求。
-4. **互动交流**：欢迎读者在评论区分享观点，提出问题，促进共同进步和学习。我们鼓励开放的交流和讨论，以便在社区中共同成长。
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white"/>
+</div>
 
-无论您是Go语言的新手还是有经验的开发者，我都希望 Jxsimple 能为您的职业发展提供有价值的参考和帮助。通过不断的学习和实践，我们可以在这个快速发展的Go语言世界中不断成长，迎接新的挑战和机遇！
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,docker,mysql,redis,linux,git,vim,pycharm,idea,vscode,cloud" />
+</div>
+
+### 📊 GitHub 统计
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeyouyuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyouyuan&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+</div>
+
+### 📈 活动图表
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyouyuan&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+
+### 🤝 联系方式
+
+<div align="center">
+  <a href="https://github.com/jxsimple">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jxsimple@blog.com">
+    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+### 💭 座右铭
+
+<div align="center">
+  <i>「希望是美好的，也许是人间至善，而美好的事物永不消逝。」——《肖申克的救赎》</i>
+  <br/>
+  <i>「不要让别人告诉你，你成不了才。只要有梦想，就要去捍卫。」——《当幸福来敲门》</i>
+  <br/>
+  <i>「我们要么忙着生存，要么赶着去死。」——《肖申克的救赎》</i>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
