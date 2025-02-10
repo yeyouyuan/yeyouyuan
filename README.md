@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=欢迎来到Jxsimple博客！;我是Jxsimple，一名专注于Go语言的工程师;分享技术经验与见解;探索Go语言的无限可能" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=欢迎来到yeyouyuan的主页！;我是yeyouyuan，一名专注于Go语言的工程师;分享技术经验与见解;探索Go语言的无限可能" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/jxsimple?label=关注者&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/jxsimple?label=获赞&style=social" alt="GitHub星标" />
-  <img src="https://komarev.com/ghpvc/?username=jxsimple&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
+  <img src="https://img.shields.io/github/followers/yeyouyuan?label=关注者&style=social" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/yeyouyuan?label=获赞&style=social" alt="GitHub星标" />
+  <img src="https://komarev.com/ghpvc/?username=yeyouyuan&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
 </div>
 
 <br/>
